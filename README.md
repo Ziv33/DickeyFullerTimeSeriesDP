@@ -23,6 +23,7 @@ The fourth experiments, which appears in ```Differentially Private Dickey-Fuller
 ## Authors
 * Ziv Chaba
 * Hila Cohen
+* _Supervisor_: Dr. Or Sheffet
 
 ## How To Run The Programs
 * Download the files or clone the repository to your local computer.
