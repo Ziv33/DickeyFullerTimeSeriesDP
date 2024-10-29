@@ -28,7 +28,7 @@ The fourth experiments, which appears in ```Differentially Private Dickey-Fuller
 ## How To Run The Programs
 * Download the files or clone the repository to your local computer.
 * Open command line at their location.
-* Run the command by ```python3 <Experiment>.py```
+* Run the program by ```python3 <Experiment>.py```
 
 Alternatively, you can run this python project on every python IDE.
 
